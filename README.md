@@ -29,14 +29,17 @@ I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.o
 <li><i>New Regularity Criteria for the Navier-Stokes Equations in Terms of Pressure</i>, joint with Xinwei Yu. <a href="https://arxiv.org/abs/1910.08911">arXiv:1910.08911 [math.AP]</a></li>
 </ol>
 		</ul>
-		<h2>Seminar and conference participation</h2>
+		<h2>Invited Talks and Converence Participation</h2>
 		<ul>
+<li><i>The 21st Prairie Analysis Seminar</i>. November 7-8, 2025. Kansas State UNiversity, Manhatthan, KS, USA. </li>
+<li><i>Second Atlantic Conference in Nonlinear PDEs</i>. November 3-7, 2025. Instituto Superior Técnico - Universidade de Lisboa, Lisbon, Portugal. </li>
+<li><i>Princeton Analysis seminar</i>. November 3rd, 2025. Princeton University, Princeton, NJ, USA. </li>
 <li><i>Conference on Nonlinear Dispersive Equations: Advances and Perspectives</i>. May 12-16, 2025. Centre National de la Recherche Scientifique, Marseille, France. </li>
 <li><i>Plenary speaker at FIM Workshop on Phase Retrieval and Banach Lattices</i>. May 5-9, 2025. ETH, Zurich, Switzerland. </li>
 <li><i>Simons Society of Fellows Retreat</i>. March 31-April 2, 2025. Savannah, Georgia, USA. </li>
 <li><i>Conference on Mathematics of Wave Phenomena</i>. February 24-28, 2025. KIT, Karlsruhe, Germany. </li>
-<li><i>Calderón-Zygmund Analysis Seminar<i></i>. Dec. 2nd, 2024. University of Chicago, Chicago, IL, USA. </li>
-<li><i>Courant Analysis Seminar<i></i>. Sept. 19th, 2024. NYU Courant, New York City, NY, USA. </li>
+<li><i>Calderón-Zygmund Analysis Seminar<i></i>. Dec. 2nd, 2024. University of Chicago, Chicago, IL, USA. 
+<li><i>Courant Analysis Seminar<i></i>. Sept. 19th, 2024. NYU Courant, New York City, NY, USA. 
 <li><i>Plenary speaker at <a href="https://www.icmat.es/RT/2024/LSAA/program.php?fbclid=IwAR1QZkhmUYGH9fMrEftzM0yhufJ7VD6Ry3G-l5eHUgm78lX1rjBDaKT6-Vg#FW1">Lattice Structures in Analysis and Applications Conference</a></i>. May 6-10, 2024. ICMAT, Madrid, Spain. </li>
 <li><i>AMS Spring Central Sectional Meeting on Nonlinear Waves</i>. April 20-21, 2024. University of Wisconsin-Milwaukee, Milwaukee, WI, USA. </li>
 <li><i>UCLA Analysis and PDE seminar</i>. November 28th, 2023. UCLA, Los Angeles, CA, USA. </li>
