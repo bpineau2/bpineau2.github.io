@@ -46,7 +46,7 @@ I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.o
 			<li><i>MSRI, FD2 Reunion seminar<i></i>. August 10th, 2023. Simons Laufer Mathematical Sciences Institute, Berkeley, CA, USA. </li>
 			<li><i>Wisconsin PDE seminar<i></i>. April. 24th, 2023. University of Wisconsin–Madison, Madison, WI, USA. </li>
 			<li><i>ICMAT PDE’s and Fluid Mechanics seminar</i>. Nov. 3rd, 2022. ICMAT, Madrid, Spain. </li>
-			<li><i>Oberwolfach seminar: Free Boundary Problems in Fluid Dynamics <i></i>. October, 2022. Oberwolfach, Germany. </li>
+			<li><i>Oberwolfach seminar: Free Boundary Problems in Fluid Dynamics <i></i>. October, 2022. Oberwolfach, Germany. 
 			<li><i> Harmonic Analysis and Differential Equations Seminar (HADES)</i>. May 10th, 2022. UC Berkeley, Berkeley, CA, USA. </li>
 			<li><i>PDE Learning Seminar (Fall 2021)
 				Nonlinear wave equations and general relativity</i>. Nov. 3rd, 2021; via Zoom. UC Berkeley, Berkeley, CA, USA. </li>
@@ -56,7 +56,4 @@ I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.o
 			<li><i>Seminar on singularity formation for incompressible Euler</i>. Mar, 2020. UC Berkeley, Berkeley, CA, USA.</li>
 			<li><i> Harmonic Analysis and Differential Equations Seminar (HADES)</i>. Nov. 19th, 2019. UC Berkeley, Berkeley, CA, USA. </li>
 			<li><i>The XI Americas Conference on Differential Equations and Nonlinear Analysis</i>. August 19, 2017, University of Alberta, Edmonton, Canada. </li>
-		</ul>
-
-			</body>
-</html>
+		
