@@ -16,7 +16,7 @@ My email is brp305@nyu.edu
 		I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a>
 		<h2>Publications and preprints</h2>
 		<ul>
-<ol reversed>
+<ol start="1">
 			<li><i>On the optimal Sobolev threshold for evolution equations with rough nonlinearities</i>, joint with Mitchell Taylor. <a href="https://arxiv.org/abs/2505.14966">arXiv:2505.14966 [math.AP]</a></li><br>
 <li><i>Global solutions for cubic quasilinear ultrahyperbolic Schrödinger flows</i>, joint with Mihaela Ifrim and Daniel Tataru. <a href="https://arxiv.org/abs/2504.06230">arXiv:2504.06230 [math.AP]</a></li><br>
 <li><i>Sharp well-posedness for the free boundary MHD equations</i>, joint with Mihaela Ifrim, Daniel Tataru, and Mitchell Taylor. <a href="https://arxiv.org/abs/2412.15625">arXiv:2412.15625 [math.AP]</a></li><br>
