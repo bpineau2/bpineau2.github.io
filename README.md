@@ -7,7 +7,8 @@
 	<body>
 		<h1>Ben Pineau</h1>
 <br><br>
-I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is Vlad Vicol. Here is my <a href="CV.pdf">CV.</a>
+I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is Vlad Vicol. Here is my <a href="Pineau_CV (8).pdf
+">CV.</a>
 <br><br>
 My email is brp305@nyu.edu
 <br><br>
