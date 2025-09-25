@@ -32,7 +32,7 @@ My email is brp305@nyu.edu
 <li><i>New Regularity Criteria for the Navier-Stokes Equations in Terms of Pressure</i>, joint with Xinwei Yu. <a href="https://arxiv.org/abs/1910.08911">arXiv:1910.08911 [math.AP]</a></li>
 </ol>
 		</ul>
-		<h2>Invited Talks and Converence Participation</h2>
+		<h2>Invited Talks and Conference Participation</h2>
 		<ul>
 <li><i>The 21st Prairie Analysis Seminar</i>. November 7-8, 2025. Kansas State University, Manhatthan, KS, USA. </li>
 <li><i>Second Atlantic Conference in Nonlinear PDEs</i>. November 3-7, 2025. Instituto Superior Técnico - Universidade de Lisboa, Lisbon, Portugal. </li>
