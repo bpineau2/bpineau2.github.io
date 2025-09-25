@@ -7,13 +7,12 @@
 	</head>	
 	<body>
 		<h1>Ben Pineau</h1>
-		I'm a recent PhD graduate from the mathematics department at UC Berkeley. My main area of study is in nonlinear partial differential equations. Here is my <a href="CV.pdf">CV.</a>
 <br><br>
-I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is Vlad Vicol.
+I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is Vlad Vicol. My main area of study is in nonlinear partial differential equations. Here is my <a href="CV.pdf">CV.</a>
 <br><br>
 		My research interests are generally in physically motivated models, some of which include Schrödinger equations, free boundary Euler equations, water waves, and the equations of magnetohydrodynamics. I am also interested in stable phase retrieval.
 		<br><br>
-		My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a>
+		I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a>
 		<h2>Publications and preprints</h2>
 		<ul>
 <ol reversed>
