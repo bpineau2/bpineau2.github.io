@@ -40,11 +40,11 @@ I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.o
 <li><i>Plenary speaker at <a href="https://www.icmat.es/RT/2024/LSAA/program.php?fbclid=IwAR1QZkhmUYGH9fMrEftzM0yhufJ7VD6Ry3G-l5eHUgm78lX1rjBDaKT6-Vg#FW1">Lattice Structures in Analysis and Applications Conference</a></i>. May 6-10, 2024. ICMAT, Madrid, Spain. </li>
 <li><i>AMS Spring Central Sectional Meeting on Nonlinear Waves</i>. April 20-21, 2024. University of Wisconsin-Milwaukee, Milwaukee, WI, USA. </li>
 <li><i>UCLA Analysis and PDE seminar</i>. November 28th, 2023. UCLA, Los Angeles, CA, USA. </li>
-			<li><i>Oberwolfach seminar: Scattering Resonances in Quantum Mechanics, General Relativity and Hyperbolic Dynamics <i></i>. November, 2023. Oberwolfach, Germany. </li>
-			<li><i>ETH Zurich Analysis seminar<i></i>. Nov. 14th, 2023. ETH, Zurich, Switzerland. </li>
-  			<li><i>UC Berkeley Analysis and PDE seminar<i></i>. Sept. 25th, 2023. UC Berkeley, Berkeley, CA, USA. </li>
-			<li><i>MSRI, FD2 Reunion seminar<i></i>. August 10th, 2023. Simons Laufer Mathematical Sciences Institute, Berkeley, CA, USA. </li>
-			<li><i>Wisconsin PDE seminar<i></i>. April. 24th, 2023. University of Wisconsin–Madison, Madison, WI, USA. </li>
+			<li><i>Oberwolfach seminar: Scattering Resonances in Quantum Mechanics, General Relativity and Hyperbolic Dynamics <i></i>. November, 2023. Oberwolfach, Germany. 
+			<li><i>ETH Zurich Analysis seminar<i></i>. Nov. 14th, 2023. ETH, Zurich, Switzerland. 
+  			<li><i>UC Berkeley Analysis and PDE seminar<i></i>. Sept. 25th, 2023. UC Berkeley, Berkeley, CA, USA. 
+			<li><i>MSRI, FD2 Reunion seminar<i></i>. August 10th, 2023. Simons Laufer Mathematical Sciences Institute, Berkeley, CA, USA. 
+			<li><i>Wisconsin PDE seminar<i></i>. April. 24th, 2023. University of Wisconsin–Madison, Madison, WI, USA. 
 			<li><i>ICMAT PDE’s and Fluid Mechanics seminar</i>. Nov. 3rd, 2022. ICMAT, Madrid, Spain. </li>
 			<li><i>Oberwolfach seminar: Free Boundary Problems in Fluid Dynamics <i></i>. October, 2022. Oberwolfach, Germany. 
 			<li><i> Harmonic Analysis and Differential Equations Seminar (HADES)</i>. May 10th, 2022. UC Berkeley, Berkeley, CA, USA. </li>
