@@ -55,7 +55,7 @@ My email is brp305@nyu.edu
 		<ul>
 <ol start="1">
 			<li><i>On the optimal Sobolev threshold for evolution equations with rough nonlinearities</i>, joint with Mitchell Taylor. <a href="https://arxiv.org/abs/2505.14966">arXiv:2505.14966 [math.AP]</a></li><br />
-<li><i>Global solutions for cubic quasilinear ultrahyperbolic Schrödinger flows</i>, joint with Mihaela Ifrim and Daniel Tataru. <a href="https://arxiv.org/abs/2504.06230">arXiv:2504.06230 [math.AP]</a></li><br />
+<li><i>Global solutions for cubic quasilinear ultrahyperbolic Schrödinger flows</i>, joint with Mihaela Ifrim and Daniel Tataru, accepted in <b>Duke Mathematical Journal.</b> <a href="https://arxiv.org/abs/2504.06230">arXiv:2504.06230 [math.AP]</a></li><br />
 <li><i>Sharp well-posedness for the free boundary MHD equations</i>, joint with Mihaela Ifrim, Daniel Tataru, and Mitchell Taylor. <a href="https://arxiv.org/abs/2412.15625">arXiv:2412.15625 [math.AP]</a></li><br />
 <li><i>Sharp Hadamard local well-posedness, enhanced uniqueness, and pointwise continuation criterion for the incompressible free boundary Euler equations</i>, joint with Mihaela Ifrim, Daniel Tataru, and Mitchell Taylor, accepted in <b>Annals of PDE</b>. <a href="https://arxiv.org/abs/2309.05625">arXiv:2309.05625 [math.AP]</a></li><br />
 			<li><i>Low regularity solutions for the general quasilinear ultrahyperbolic Schrödinger equation</i>, joint with Mitchell Taylor, accepted in <b>Archive for Rational Mechanics and Analysis</b>. <a href="https://arxiv.org/abs/2310.19221">arXiv:2310.19221 [math.AP]</a></li><br />
