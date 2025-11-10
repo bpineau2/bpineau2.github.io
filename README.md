@@ -70,6 +70,7 @@ My email is brp305@nyu.edu
 		</ul>
 		<h2>Invited Talks and Conference Participation</h2>
 		<ul>
+<li><i>Yale Analysis seminar</i>. November 20th, 2025. Yale University, New Haven, CT, USA. </li>
 <li><i>The 21st Prairie Analysis Seminar</i>. November 7-8, 2025. Kansas State University, Manhatthan, KS, USA. </li>
 <li><i>Second Atlantic Conference in Nonlinear PDEs</i>. November 3-7, 2025. Instituto Superior Técnico - Universidade de Lisboa, Lisbon, Portugal. </li>
 <li><i>Princeton Analysis seminar</i>. November 3rd, 2025. Princeton University, Princeton, NJ, USA. </li>
