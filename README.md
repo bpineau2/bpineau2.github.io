@@ -54,6 +54,8 @@ My email is brp305@nyu.edu
 		<h2>Publications and preprints</h2>
 		<ul>
 <ol start="1">
+	<li><i>Cheeger’s constant for the Gabor transform and ripples,
+</i> joint with with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. In final preparation.</li><br />
 	<li><i>A Poisson formula for the wave propagator on Schwarzschild-de Sitter backgrounds,
 </i> joint with Izak Oltman. <a href="SDS.pdf
 ">preprint.</a></li><br />
