@@ -76,6 +76,9 @@ My email is brp305@nyu.edu
 		</ul>
 		<h2>Invited Talks and Conference Participation</h2>
 		<ul>
+<li><i>BIRS Workshop: Dynamics in Geometric Dispersive Equations and the effects of Trapping, Scattering and weak Turbulence, III</i>. November 29 - December 4, 2026. Banff, Canada.</li>			
+<li><i>AMS Spring Central Sectional Meeting on Nonlinear Waves</i>. April 18-19, 2026. North Dakota State University, Fargo, ND, USA. </li>			
+<li><i>Oberwolfach workshop: Nonlinear Waves and Dispersive Equations</i>. March 1-6, 2026. Oberwolfach, Germany. </li>
 <li><i>Yale Analysis seminar</i>. November 20th, 2025. Yale University, New Haven, CT, USA. </li>
 <li><i>The 21st Prairie Analysis Seminar</i>. November 7-8, 2025. Kansas State University, Manhatthan, KS, USA. </li>
 <li><i>Second Atlantic Conference in Nonlinear PDEs</i>. November 3-7, 2025. Instituto Superior Técnico - Universidade de Lisboa, Lisbon, Portugal. </li>
