@@ -56,7 +56,7 @@ My email is brp305@nyu.edu
 <ol start="1">
 	<li><i>A Poisson formula for the wave propagator on Schwarzschild-de Sitter backgrounds,
 </i> joint with Izak Oltman. <a href="SDS.pdf
-">ArXiv preprint.</a></li><br />
+">preprint.</a></li><br />
 			<li><i>On the optimal Sobolev threshold for evolution equations with rough nonlinearities</i>, joint with Mitchell Taylor. <a href="https://arxiv.org/abs/2505.14966">arXiv:2505.14966 [math.AP]</a></li><br />
 <li><i>Global solutions for cubic quasilinear ultrahyperbolic Schrödinger flows</i>, joint with Mihaela Ifrim and Daniel Tataru, accepted in <b>Duke Mathematical Journal.</b> <a href="https://arxiv.org/abs/2504.06230">arXiv:2504.06230 [math.AP]</a></li><br />
 <li><i>Sharp well-posedness for the free boundary MHD equations</i>, joint with Mihaela Ifrim, Daniel Tataru, and Mitchell Taylor. <a href="https://arxiv.org/abs/2412.15625">arXiv:2412.15625 [math.AP]</a></li><br />
