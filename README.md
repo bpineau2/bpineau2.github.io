@@ -54,6 +54,7 @@ My email is brp305@nyu.edu
 		<h2>Publications and preprints</h2>
 		<ul>
 <ol start="1">
+	<ol type="1">
 	<li><i>Cheeger’s constant for the Gabor transform and ripples,
 </i> joint with with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. In final preparation.</li><br />
 	<li><i>A Poisson formula for the wave propagator on Schwarzschild-de Sitter backgrounds,
@@ -71,6 +72,7 @@ My email is brp305@nyu.edu
 			<li><i>On Prodi–Serrin type conditions for the 3D Navier–Stokes equations</i>, joint with Xinwei Yu, <b>Nonlinear Analysis</b>. Vol. 190, (2020). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0362546X19302573">link</a></li><br />
 			<li><i>A New Prodi–Serrin Type Regularity Criterion in Velocity Directions</i>, joint with Xinwei Yu, <b>Journal of Mathematical Fluid Mechanics</b>. Vol. 20, pages 1737–1744 (2018). <a href="https://link.springer.com/article/10.1007%2Fs00021-018-0388-z">link</a></li><br />
 <li><i>New Regularity Criteria for the Navier-Stokes Equations in Terms of Pressure</i>, joint with Xinwei Yu. <a href="https://arxiv.org/abs/1910.08911">arXiv:1910.08911 [math.AP]</a></li>
+</ol>
 </ol>
 		</ul>
 		<h2>Invited Talks and Conference Participation</h2>
