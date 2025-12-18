@@ -16,7 +16,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="bpineau2" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"bpineau2","name":"bpineau2","url":"https://bpineau2.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"","name":"","url":"https://bpineau2.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=78ac5032d8610c9714458a37fd5bf6d3ac4e2205">
