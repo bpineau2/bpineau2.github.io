@@ -53,7 +53,7 @@ My email is brp305@nyu.edu
 		I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a>
 		<h2>Publications and preprints</h2>
 		<ul>
-<ol start="1">
+<ol type="1">
 	<li><i>Cheeger’s constant for the Gabor transform and ripples,
 </i> joint with with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. In final preparation.</li><br />
 	<li><i>A Poisson formula for the wave propagator on Schwarzschild-de Sitter backgrounds,
