@@ -107,7 +107,6 @@ My email is brp305@nyu.edu
 			<li><i>The XI Americas Conference on Differential Equations and Nonlinear Analysis</i>. August 19, 2017, University of Alberta, Edmonton, Canada. </li>
 			<ul>
 		
-</i></li></i></li></i></li></i></li></i></li></i></li></i></li></i></li></ul></body></html>
 
 
       
