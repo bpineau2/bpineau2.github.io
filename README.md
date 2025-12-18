@@ -71,7 +71,6 @@ My email is brp305@nyu.edu
 			<li><i>A New Prodi–Serrin Type Regularity Criterion in Velocity Directions</i>, joint with Xinwei Yu, <b>Journal of Mathematical Fluid Mechanics</b>. Vol. 20, pages 1737–1744 (2018). <a href="https://link.springer.com/article/10.1007%2Fs00021-018-0388-z">link</a></li><br />
 <li><i>New Regularity Criteria for the Navier-Stokes Equations in Terms of Pressure</i>, joint with Xinwei Yu. <a href="https://arxiv.org/abs/1910.08911">arXiv:1910.08911 [math.AP]</a></li>
 </ol>
-		</ul>
 		<h2>Invited Talks and Conference Participation</h2>
 		<ul>
 <li><i>BIRS Workshop: Dynamics in Geometric Dispersive Equations and the effects of Trapping, Scattering and weak Turbulence, III</i>. November 29 - December 4, 2026. Banff, Canada.</li>			
@@ -106,6 +105,7 @@ My email is brp305@nyu.edu
 			<li><i>Seminar on singularity formation for incompressible Euler</i>. Mar, 2020. UC Berkeley, Berkeley, CA, USA.</li>
 			<li><i> Harmonic Analysis and Differential Equations Seminar (HADES)</i>. Nov. 19th, 2019. UC Berkeley, Berkeley, CA, USA. </li>
 			<li><i>The XI Americas Conference on Differential Equations and Nonlinear Analysis</i>. August 19, 2017, University of Alberta, Edmonton, Canada. </li>
+			<ul>
 		
 </i></li></i></li></i></li></i></li></i></li></i></li></i></li></i></li></ul></body></html>
 
