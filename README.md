@@ -54,7 +54,7 @@ My email is brp305@nyu.edu
 		<h2>Publications and preprints</h2>
 <ol reversed>
 	<li><i>Cheeger’s constant for the Gabor transform and ripples,
-</i> joint with with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. In final preparation.</li><br />
+</i> joint with with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. <a href="arxiv_Cheeger.pdf">preprint.</a></li><br />
 	<li><i>A Poisson formula for the wave propagator on Schwarzschild-de Sitter backgrounds,
 </i> joint with Izak Oltman. <a href="https://arxiv.org/abs/2512.16054">arXiv:2512.16054 [math.AP]</a></li><br />
 			<li><i>On the optimal Sobolev threshold for evolution equations with rough nonlinearities</i>, joint with Mitchell Taylor. <a href="https://arxiv.org/abs/2505.14966">arXiv:2505.14966 [math.AP]</a></li><br />
