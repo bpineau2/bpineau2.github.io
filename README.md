@@ -72,9 +72,13 @@ My email is brp305@nyu.edu
 </ol>
 		<h2>Invited Talks and Conference Participation</h2>
 		<ul>
-<li><i>BIRS Workshop: Dynamics in Geometric Dispersive Equations and the effects of Trapping, Scattering and weak Turbulence, III</i>. November 29 - December 4, 2026. Banff, Canada.</li>	<li><i>Courant Analysis Seminar<i></i>. April 23rd, 2026. NYU Courant, New York City, NY, USA.		
+<li><i>BIRS Workshop: Dynamics in Geometric Dispersive Equations and the effects of Trapping, Scattering and weak Turbulence, III</i>. November 29 - December 4, 2026. Banff, Canada.</li>
+<li><i>Workshop on "Phase Retrieval: Connecting Theory and Applications</i>. Sept. 21-25, 2026. RWTH Aachen University, Aachen, Germany. </li>	
+<li><i>2026 SUMIRFAS Seminar</i>. July 31-August 2, 2026. Texas A&M in College Station, Texas, USA. </li>
+<li><i>Courant Analysis Seminar<i></i>. April 23rd, 2026. NYU Courant, New York City, NY, USA.		
 <li><i>AMS Spring Central Sectional Meeting on Nonlinear Waves</i>. April 18-19, 2026. North Dakota State University, Fargo, ND, USA. </li>
 <li><i>Rutgers Hyperbolic & Dispersive PDE Seminar</i>. April 2nd, 2026. Rutgers University, New Brunswick, NJ, USA. </li>
+<li><i>Courant Student Analysis Seminar<i></i>. March 30th, 2026. NYU Courant, New York City, NY, USA.	
 <li><i>Oberwolfach workshop: Nonlinear Waves and Dispersive Equations</i>. March 1-6, 2026. Oberwolfach, Germany. </li>
 <li><i>Yale Analysis seminar</i>. November 20th, 2025. Yale University, New Haven, CT, USA. </li>
 <li><i>The 21st Prairie Analysis Seminar</i>. November 7-8, 2025. Kansas State University, Manhatthan, KS, USA. </li>
