@@ -75,6 +75,7 @@ My email is brp305@nyu.edu
 <li><i>BIRS Workshop: Dynamics in Geometric Dispersive Equations and the effects of Trapping, Scattering and weak Turbulence, III</i>. November 29 - December 4, 2026. Banff, Canada.</li>
 <li><i>Workshop on "Phase Retrieval: Connecting Theory and Applications</i>. Sept. 21-25, 2026. RWTH Aachen University, Aachen, Germany. </li>	
 <li><i>2026 SUMIRFAS Seminar</i>. July 31-August 2, 2026. Texas A&M in College Station, Texas, USA. </li>
+<li><i>Northwestern Analysis Seminar<i></i>. May 25th, 2026. Northwestern University, Chicago, IL, USA.			
 <li><i>Courant Analysis Seminar<i></i>. April 23rd, 2026. NYU Courant, New York City, NY, USA.		
 <li><i>AMS Spring Central Sectional Meeting on Nonlinear Waves</i>. April 18-19, 2026. North Dakota State University, Fargo, ND, USA. </li>
 <li><i>Rutgers Hyperbolic & Dispersive PDE Seminar</i>. April 2nd, 2026. Rutgers University, New Brunswick, NJ, USA. </li>
