@@ -53,7 +53,7 @@ My email is brp305@nyu.edu
 		I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a>
 		<h2>Publications and preprints</h2>
 <ol reversed>
-	<li><i>L^2-Stability for STFT phase retrieval,
+	<li><i>L2-Stability for STFT phase retrieval,
 </i> joint with Susanna Bertolini, Jaume de Dios Pont, Mitchell Taylor and João Ramos <a href="https://arxiv.org/abs/2605.20527">arXiv:2605.20527 [math.FA]</a></li><br />
 	<li><i>Cheeger’s constant for the Gabor transform and ripples,
 </i> joint with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. <a href="https://arxiv.org/abs/2512.18058">arXiv:2512.18058 [math.CA]</a></li><br />
