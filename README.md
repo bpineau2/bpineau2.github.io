@@ -53,6 +53,8 @@ My email is brp305@nyu.edu
 		I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a>
 		<h2>Publications and preprints</h2>
 <ol reversed>
+	<li><i>On rotated backwards self-similar solutions of the incompressible 3D Navier-Stokes equations,
+</i> joint with Vlad Vicol <a href="https://arxiv.org/abs/2607.09619">arXiv:2607.09619 [math.AP]</a></li><br />
 	<li><i>L2-Stability for STFT phase retrieval,
 </i> joint with Susanna Bertolini, Jaume de Dios Pont, Mitchell Taylor and João Ramos <a href="https://arxiv.org/abs/2605.20527">arXiv:2605.20527 [math.FA]</a></li><br />
 	<li><i>Cheeger’s constant for the Gabor transform and ripples,
