@@ -51,7 +51,7 @@ title: Ben Pineau
     <header class="profile-header">
       <img class="profile-photo" src="TTpic.jpg" alt="Ben Pineau" width="160" height="207">
       <h1>Ben Pineau</h1>
-      <p>I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is <a href="https://cims.nyu.edu/~vicol/">Vlad Vicol</a>. Here is my <a href="Pineau_CV (8).pdf">CV.</a></p>
+      <p>I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is <a href="https://cims.nyu.edu/~vicol/">Vlad Vicol</a>. Here is my <a href="Pineau_CV (9).pdf">CV.</a></p>
       <p>My email is brp305@nyu.edu</p>
       <p>I study nonlinear PDE. My research interests are generally in physically motivated models, some of which include Schrödinger equations, free boundary Euler equations, water waves, and the equations of magnetohydrodynamics. I am also interested in stable phase retrieval.</p>
       <p>I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a></p>
