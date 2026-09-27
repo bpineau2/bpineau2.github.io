@@ -84,6 +84,7 @@ title: Ben Pineau
     <h2>Invited Talks and Conference Participation</h2>
     <ul>
 <li><i>BIRS Workshop: Dynamics in Geometric Dispersive Equations and the effects of Trapping, Scattering and weak Turbulence, III</i>. November 29 - December 4, 2026. Banff, Canada.</li>
+<li><i> Harmonic Analysis and Differential Equations Seminar (HADES)</i>. November 17th, 2026. UC Berkeley, Berkeley, CA, USA.</li>
 <li><i>UC Berkeley Analysis and PDE seminar</i>. November 16th, 2026. UC Berkeley, Berkeley, CA, USA.</li>
 <li><i>Caltech Analysis seminar</i>. November 13th, 2026. Caltech, Los Angeles, CA, USA.</li>
 <li><i>Workshop on "Phase Retrieval: Connecting Theory and Applications</i>. Sept. 21-25, 2026. RWTH Aachen University, Aachen, Germany.</li>
