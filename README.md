@@ -66,7 +66,7 @@ title: Ben Pineau
 	<li><i>Cheeger’s constant for the Gabor transform and ripples,
 </i> joint with Rima Alaifari, Mitchell Taylor and Matthias Wellershoff. <a href="https://arxiv.org/abs/2512.18058">arXiv:2512.18058 [math.CA]</a></li>
 	<li><i>A Poisson formula for the wave propagator on Schwarzschild-de Sitter backgrounds,
-</i> joint with Izak Oltman. <a href="https://arxiv.org/abs/2512.16054">arXiv:2512.16054 [math.AP]</a></li>
+</i> joint with Izak Oltman, accepted in <b>Communications in Mathematical Physics </b>. <a href="https://arxiv.org/abs/2512.16054">arXiv:2512.16054 [math.AP]</a></li>
 			<li><i>On the optimal Sobolev threshold for evolution equations with rough nonlinearities</i>, joint with Mitchell Taylor, accepted in <b>Journal of the European Mathematical Society</b>. <a href="https://arxiv.org/abs/2505.14966">arXiv:2505.14966 [math.AP]</a></li>
 <li><i>Global solutions for cubic quasilinear ultrahyperbolic Schrödinger flows</i>, joint with Mihaela Ifrim and Daniel Tataru, accepted in <b>Duke Mathematical Journal.</b> <a href="https://arxiv.org/abs/2504.06230">arXiv:2504.06230 [math.AP]</a></li>
 <li><i>Sharp well-posedness for the free boundary MHD equations</i>, joint with Mihaela Ifrim, Daniel Tataru, and Mitchell Taylor. <a href="https://arxiv.org/abs/2412.15625">arXiv:2412.15625 [math.AP]</a></li>
