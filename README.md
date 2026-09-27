@@ -59,6 +59,7 @@ title: Ben Pineau
     <h2>Publications and preprints</h2>
     <ol class="publications" reversed>
 <li><i>Global well-posedness for non-localized 3D gravity water waves</i>, joint with Mihaela Ifrim and Daniel Tataru. In final preparation.</li>
+<li><i>Phase retrieval for Schrödinger evolutions,</i> joint with João Ramos and Mitchell Taylor. <a href="Schrodinger_PR.pdf">Preprint.</a></li>		
 <li><i>On rotated backwards self-similar solutions of the incompressible 3D Navier-Stokes equations,
 </i> joint with Vlad Vicol <a href="https://arxiv.org/abs/2607.09619">arXiv:2607.09619 [math.AP]</a></li>
 	<li><i>L2-Stability for STFT phase retrieval,
