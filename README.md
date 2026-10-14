@@ -51,7 +51,7 @@ title: Ben Pineau
     <header class="profile-header">
       <img class="profile-photo" src="TTpic.jpg" alt="Ben Pineau" width="160" height="207">
       <h1>Ben Pineau</h1>
-      <p>I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is <a href="https://cims.nyu.edu/~vicol/">Vlad Vicol</a>. Here is my <a href="Pineau_CV (9).pdf">CV.</a></p>
+      <p>I am currently a Simons Junior Fellow in <a href="https://www.simonsfoundation.org/simons-society-of-fellows/">the Simons Society of Fellows</a> and am hosted by the <a href="https://cims.nyu.edu/dynamic/">Courant Institute of Mathematical Sciences</a> in New York City. My mentor is <a href="https://cims.nyu.edu/~vicol/">Vlad Vicol</a>. Here is my <a href="benjamin_pineau_cv.pdf">CV.</a></p>
       <p>My email is brp305@nyu.edu</p>
       <p>I study nonlinear PDE. My research interests are generally in physically motivated models, some of which include Schrödinger equations, free boundary Euler equations, water waves, and the equations of magnetohydrodynamics. I am also interested in stable phase retrieval.</p>
       <p>I received my PhD in 2024 from the mathematics department at UC Berkeley. My advisor was <a href="https://math.berkeley.edu/~tataru/">Daniel Tataru</a>. My dissertation can be viewed <a href="Finalized.pdf">here.</a></p>
@@ -80,6 +80,7 @@ title: Ben Pineau
 			<li><i>On Prodi–Serrin type conditions for the 3D Navier–Stokes equations</i>, joint with Xinwei Yu, <b>Nonlinear Analysis</b>. Vol. 190, (2020). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0362546X19302573">link</a></li>
 			<li><i>A New Prodi–Serrin Type Regularity Criterion in Velocity Directions</i>, joint with Xinwei Yu, <b>Journal of Mathematical Fluid Mechanics</b>. Vol. 20, pages 1737–1744 (2018). <a href="https://link.springer.com/article/10.1007%2Fs00021-018-0388-z">link</a></li>
 <li><i>New Regularity Criteria for the Navier-Stokes Equations in Terms of Pressure</i>, joint with Xinwei Yu. <a href="https://arxiv.org/abs/1910.08911">arXiv:1910.08911 [math.AP]</a></li>
+<li><i>On low regularity dynamics for quasilinear dispersive equations and free boundary problems</i>, ProQuest LLC, Ann Arbor, MI, 2024. Ph.D. thesis, University of California, Berkeley. <a href="Finalized.pdf">PDF.</a></li>
     </ol>
     <h2>Invited Talks and Conference Participation</h2>
     <ul>
